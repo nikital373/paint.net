@@ -15,8 +15,6 @@
 
 **Последняя версия:** 4.3.10 (9 марта 2022)
 
-**Лицензия:** Пользовательское соглашение
-
 **Официальный сайт:** [getpaint.net](https://www.getpaint.net/)
 
 ## О нас
@@ -35,6 +33,54 @@ Paint.NET - графический редактор Paint.NET отличаетс
 * 1ГБ оперативной памяти
 * OC Windows 7 и выше
 ## Установка
-[Особенности инсталляции paint.net](https://www.getpaint.net/doc/latest/InstallPDN.html)
+**Совет**. Перед установкой настоятельно рекомендуется установить все последние обновления системы paint.net . Чтобы проверить и установить обновления системы, используйте средство обновления Windows, введя "Центр обновления Windows" в поле поиска в меню "Пуск".
+
+1. После загрузки пакета установщика с [paint.net](https://getpaint.net/download.html) откройте сжатую папку, дважды щелкнув значок.
+
+2. В открывшемся окне дважды щелкните файл paint.net .<версия>.install.exe чтобы начать установку.
+
+<p align="center">
+  <img width="620" height="171" src="https://www.getpaint.net/doc/latest/images/install/opencompressed.png">
+</p>
+
+**Примечание!** Может открыться диалоговое окно Управления учетными записями пользователей Windows с запросом разрешения на внесение изменений в систему. Если проверенным издателем является DOTPDN LLC, как показано на этом скриншоте, нажмите "Yes", чтобы продолжить установку.
+
+<p align="center">
+  <img width="456" height="336" src="https://www.getpaint.net/doc/latest/images/install/UAC.png">
+</p>
+
+3. В paint.net установщик распакует файлы, необходимые для установки.
+
+<p align="center">
+  <img width="422" height="290" src="https://www.getpaint.net/doc/latest/images/install/extracting.png">
+</p>
+
+4. Как только извлечение будет завершено, начнется фактическая установка приложения
+
+<p align="center">
+  <img width="497" height="414" src="https://www.getpaint.net/doc/latest/images/install/install.png">
+</p>
+
+Есть два варианта установки- Экспресс и пользовательские.
+
+5. Для большинства пользователей "Экспресс" установки с параметрами по умолчанию должно быть достаточно. Если требуется настроить установку (возможно, изменить каталог установки по умолчанию), выберите опцию "Custom". Перед выходом из диалогового окна выберите предпочитаемый язык из раскрывающегося списка в нижней части диалогового окна. НажмитеNext, чтобы продолжить.
+
+<p align="center">
+  <img width="497" height="414" src="https://www.getpaint.net/doc/latest/images/install/installoptions.png">
+</p>
+
+6. Если эти параметры установлены, щелчок "Next" завершит установку и оптимизирует paint.net для вашей системы.
+
+<p align="center">
+  <img width="497" height="414" src="https://www.getpaint.net/doc/latest/images/install/installprogress.png">
+</p>
+  
+**Примечание!** Paint.net требует Framework. NET для работы. Если требуемая платформа отсутствует в системе, она будет установлена автоматически в процессе установки.
+
+7. После завершения установки нажмите "Finish", чтобы выйти из программы установки. 
+<p align="center">
+  <img width="497" height="414" src="https://www.getpaint.net/doc/latest/images/install/installcomplete.png">
+</p>
+
 ## Лицензия
 Paint.NET предоставляется пользователю бесплатно. Чтобы ознакомиться с полным лицензионным соглашением, посетите страницу лицензирования на [https://www.getpaint.net/license.html](https://www.getpaint.net/license.html)
